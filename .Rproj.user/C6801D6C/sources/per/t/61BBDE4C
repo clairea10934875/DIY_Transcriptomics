@@ -1,0 +1,28 @@
+{
+    "id": "61BBDE4C",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1707944586987.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "id": "8eb132e3935b4158b808acafd13b1cc6",
+        "name": "fettet.anno",
+        "title": "fettet.anno",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1707944586987,
+    "read_only": false,
+    "read_only_alternatives": []
+}
